@@ -1,34 +1,28 @@
-HEAD
-# Netflix Clone
-
-This is a static web page that looks like the Netflix homepage. It uses HTML, CSS, JS and Bootstrap v5.3. The sliders have working previous and next arrow buttons on the sides, the design is fully responsive, you can try the mobile version via the Inspect element tool. 
-
 # 🚀 Netflix Clone Deployment on AWS with Docker  
 
-## Overview  
+## **Overview**  
 This project hosts a **Netflix Clone static website** on **AWS EC2** using **Docker & Nginx** for containerized hosting.  
 
-## Tech Stack  
+## **Tech Stack**  
 - **AWS Services**: EC2, Security Groups, Elastic IP  
 - **Containerization**: Docker, Docker Compose  
 - **Web Server**: Nginx  
 
-## Deployment Steps  
-...
+---
 
-Build & Run Locally 
-
-docker build -t netflix-clone .
-docker run -d -p 8080:80 netflix-clone
-
-## 🚀 Live Preview  
+## **🌎 Live Preview**  
 For a quick preview of the deployed Netflix Clone, visit:  
-
 🔗 **[Netflix Clone - Live on Vercel](https://deploying-netflix-clone-on-aws-with-nithishs-projects-e63f3d79.vercel.app/)**  
 
-📌 *Note: This site is also hosted on Vercel for a faster glance at the static version of the Netflix Clone.*
+📌 *Note: This site is also hosted on Vercel for a faster glance at the static version of the Netflix Clone.*  
 
+---
 
+## **⚡ Deployment Steps**  
+### **1️⃣ Build & Run Locally**  
+```bash
+docker build -t netflix-clone .
+docker run -d -p 8080:80 netflix-clone
 
 # What I was trying to recreate:
 
