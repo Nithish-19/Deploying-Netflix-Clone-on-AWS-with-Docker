@@ -7,9 +7,6 @@ This is a static web page that looks like the Netflix homepage. It uses HTML, CS
 
 For a live preview of the web page you can visit: https://alex188dot.github.io/Netflix-Clone/
 
-# What I was trying to recreate:
-
-![netflix-home-1536x1090](https://github.com/Alex188dot/netflix-clone/assets/117444853/ef604a46-7a01-42a6-a621-9d1ff9a93955)
 
 # What I made:
 
